@@ -1,2 +1,4 @@
-# SpartyGnome
-Flappy bird game with Sparty Gnome built using C++ and WxWidgets
+# SpartyGnomeGame
+
+A Flappy-Bird like multi-level game implemented in C++ using WxWidgets
+
