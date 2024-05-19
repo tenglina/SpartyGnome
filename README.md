@@ -3,4 +3,4 @@
 A Flappy-Bird like multi-level game implemented in C++ using WxWidgets
 
 
-![Alt text](screenshot.png?raw=true "Title")
+![Alt text](screenshot.jpg?raw=true "Title")
